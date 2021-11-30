@@ -1,5 +1,5 @@
 # Hello!
-**My name is Ariel Diego!**
+## My name is Ariel Diego!
 
 It's so nice to see you here! Let's do some *formatting* here.
 
