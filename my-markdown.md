@@ -8,7 +8,7 @@ Some of the formats:
 * Bold text
 * Italized text
 
-In coding, use markdown like this: 'System.out.println("Hello world!");'
+In coding, use markdown like this: `System.out.println("Hello world!");`
 
 Linking a facebook:
 [Ariel Diego](https://www.facebook.com/ariel.diego.7/)
