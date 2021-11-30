@@ -4,9 +4,9 @@
 It's so nice to see you here! Let's do some *formatting* here.
 
 Some of the formats:
-*Header
-*Bold text
-*italized text
+* Header
+* Bold text
+* Italized text
 
 In coding, use markdown like this: 'System.out.println("Hello world!");'
 
